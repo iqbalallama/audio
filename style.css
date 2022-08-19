@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+h1{
+    color:coral;
+    font-size: 35px;
+    font-style: italic;
+}
+button.music {
+    width: 300px;
+}
